@@ -1,5 +1,5 @@
 #!/bin/sh
-#
+
 # Setup environment before build layer
 # yum update -y
 # yum groupinstall "Development Tools" -y
